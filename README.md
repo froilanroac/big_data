@@ -2,7 +2,7 @@
 # BIG DATA PROJECT
 
 - El siguiente proyecto fue desarrollado para la materia electiva "Gestion de Grandes Volúmenes de Datos"
-- [Link del proyecto](froilanroac.japaneast.cloudapp.azure.com:8050)
+- link del proyecto: froilanroac.japaneast.cloudapp.azure.com:8050
 
 # Descripción del repositorio
 - *paper.pdf*: Documento de entrega para la defensa final.
